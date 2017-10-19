@@ -1,0 +1,12 @@
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\bin\Debug\MongoAutoIncrement.exe.config
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\obj\Debug\MongoAutoIncrement.csprojResolveAssemblyReference.cache
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\bin\Debug\MongoAutoIncrement.exe
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\bin\Debug\MongoAutoIncrement.pdb
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\bin\Debug\MongoDB.Bson.dll
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\bin\Debug\MongoDB.Driver.dll
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\obj\Debug\MongoAutoIncrement.exe
+D:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\obj\Debug\MongoAutoIncrement.pdb
+E:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\bin\Debug\MongoAutoIncrement.exe.config
+E:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\obj\Debug\MongoAutoIncrement.exe
+E:\Projects\Projects\Practice\MongoAutoIncrement\MongoAutoIncrement\obj\Debug\MongoAutoIncrement.pdb
